@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/path": {
+      "name": "/path",
+      "lambdaFunction": "personalwebsiteusing5f42940a",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
